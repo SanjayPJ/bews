@@ -56,6 +56,19 @@ section{
  }
 
 
+ .des3{
+  width: 1750px;
+  height: 386px;
+  bottom: 0px;
+  right: -40px;
+  transform: scaleX(-1) rotateX(180deg);
+  filter: FlipH;
+ }
+
  .ml-7{
   margin-left: -25px;
+ }
+
+  .mt-7{
+  margin-top: 30px;
  }
