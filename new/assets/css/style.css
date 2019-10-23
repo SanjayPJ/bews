@@ -16,7 +16,7 @@ section{
 }
 
 .hero{
-	height: 90vh;
+	height: 640px;
 	background-image: url(../img/heroimage.png);
 
   /* Center and scale the image nicely */
@@ -26,7 +26,7 @@ section{
 }
 
 .hero-text{
-	margin-top: 30vh;
+	margin-top: 210px;
 }
 
  .input-group>.form-control:not(:last-child){
